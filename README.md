@@ -88,8 +88,7 @@ Each input must be a list of **12 numeric values** in the following order:
 
 ```json
 {
-  "predictions": [1234567.0, 8901234.5],
-  "confidences": [0.95, 0.89]
+  "predictions": [8201865.499405103, 10638380.236666817],
 }
 ```
 
